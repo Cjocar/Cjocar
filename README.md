@@ -1,40 +1,81 @@
-<h2 align="left">About me</h2>
+<h1 align="center">👋 Olá, eu sou João Carlos!</h1>
 
-###
+<p align="center">
+  <b>Desenvolvedor Back-End | AWS | Dados</b>
+</p>
 
-<p align="left">-Java developer<br>-Technology student</p>
+---
 
-###
+<h2 align="left">🚀 Sobre mim</h2>
 
-<h2 align="left">Techs</h2>
+<p align="left">
+Sou formado em <b>Análise e Desenvolvimento de Sistemas</b> e atualmente curso <b>Ciência da Computação</b>.
+<br><br>
+Tenho interesse em <b>desenvolvimento Back-End, Cloud Computing e dados</b>, buscando evoluir constantemente por meio de estudos e projetos práticos.
+</p>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
+<h2 align="left">💻 Tecnologias</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cjocar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cjocar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cjocar&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
 
-###
+<h2 align="left">📚 Atualmente estudando</h2>
 
-<h2 align="left">Social media</h2>
+<p align="left">
+🐍 Python<br>
+☁️ AWS e Cloud Computing<br>
+📊 Dados e SQL<br>
+⚙️ Desenvolvimento Back-End<br>
+🏗️ Arquitetura e boas práticas de software
+</p>
 
-###
+<h2 align="left">🎯 Áreas de interesse</h2>
+
+<p align="left">
+• Desenvolvimento Back-End<br>
+• Engenharia e análise de dados<br>
+• Cloud Computing<br>
+• APIs REST<br>
+• Automação e processamento de dados<br>
+• Soluções utilizando AWS
+</p>
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cjocar&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=false" height="140" alt="GitHub stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cjocar&layout=compact&langs_count=6&theme=gruvbox_light&hide_border=false" height="140" alt="Top languages" />
+</div>
+
+<h2 align="left">📫 Conecte-se comigo</h2>
+
+<p align="left">
+  <a href="https://github.com/Cjocar">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-38a9a5225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Btv8xAzgzTTG6gbmMldwNng%3D%3D" target="_blank">
